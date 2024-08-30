@@ -1,5 +1,6 @@
 # ControlTuts
-All my control system books and tutorials
+All useful Control system books and tutorials.
+
 Some useful links
 - https://yilinmo.github.io/teaching.html
 - https://youtube.com/playlist?list=PLxdnSsBqCrrF9KOQRB9ByfB0EUMwnLO9o
