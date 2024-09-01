@@ -9,3 +9,4 @@ Some useful links
 - https://youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m
 - https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/download/
 - https://ece.illinois.edu/academics/ugrad/subdisciplines/cyber
+- https://hankyang.seas.harvard.edu/Semidefinite/background.html#background:convexity
