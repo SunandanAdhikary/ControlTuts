@@ -13,3 +13,4 @@ Some useful links
 - Optimisation 1: https://web.stanford.edu/class/ee364a/lectures.html
 - Optimisation 2: https://stanford.edu/class/ee364b/lectures.html
 - Stochastic Systems: https://stanford.edu/class/ee365/lectures.html
+- Optimisation all CMU : https://www.stat.cmu.edu/~ryantibs/convexopt/
