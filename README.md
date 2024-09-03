@@ -10,3 +10,6 @@ Some useful links
 - https://ocw.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011/download/
 - https://ece.illinois.edu/academics/ugrad/subdisciplines/cyber
 - https://hankyang.seas.harvard.edu/Semidefinite/background.html#background:convexity
+- Optimisation 1: https://web.stanford.edu/class/ee364a/lectures.html
+- Optimisation 2: https://stanford.edu/class/ee364b/lectures.html
+- Stochastic Systems: https://stanford.edu/class/ee365/lectures.html
