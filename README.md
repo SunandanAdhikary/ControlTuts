@@ -14,3 +14,4 @@ Some useful links
 - Optimisation 2: https://stanford.edu/class/ee364b/lectures.html
 - Stochastic Systems: https://stanford.edu/class/ee365/lectures.html
 - Optimisation all CMU : https://www.stat.cmu.edu/~ryantibs/convexopt/
+- Boyd Control Course final solution link: https://stanford.edu/class/ee363/notes/final_sol_09.pdf
