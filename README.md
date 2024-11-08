@@ -15,3 +15,5 @@ Some useful links
 - Stochastic Systems: https://stanford.edu/class/ee365/lectures.html
 - Optimisation all CMU : https://www.stat.cmu.edu/~ryantibs/convexopt/
 - Boyd Control Course final solution link: https://stanford.edu/class/ee363/notes/final_sol_09.pdf
+- Awesome course by Matthew Pete on Linear matrix inequalities and control theory. - https://www.youtube.com/playlist?list=PL5ebyVGQORm6n158o-I_liUZ7Q5Od43li
+     - Course webpage : [Linear matrix inequalities and control theory](https://control.asu.edu/MAE598_frame.htm)
